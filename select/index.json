@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ココロオドル -original version-",
+  "base_artist": "nobodyknows+",
+  "createdAt": "2026-01-07T08:40:38.305437Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ココロオドル -original version-",
+      "artist": "nobodyknows+",
+      "has_synced": true,
+      "path": "select/01_ココロオドル_-original_version-_nobodyknows+.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ココロオドル",
+      "artist": "nobodyknows+",
+      "has_synced": true,
+      "path": "select/02_ココロオドル_nobodyknows+.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ココロオドル",
+      "artist": "kiki vivi lily",
+      "has_synced": false,
+      "path": "select/03_ココロオドル_kiki_vivi_lily.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ココロオドル",
+      "artist": "nobodyknows+",
+      "has_synced": true,
+      "path": "select/04_ココロオドル_nobodyknows+.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ココロオドル",
+      "artist": "nobodyknows",
+      "has_synced": true,
+      "path": "select/05_ココロオドル_nobodyknows.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ココロオドル",
+      "artist": "nobodyknows",
+      "has_synced": false,
+      "path": "select/06_ココロオドル_nobodyknows.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "03 ココロオドル",
+      "artist": "nobodyknows+",
+      "has_synced": true,
+      "path": "select/07_03_ココロオドル_nobodyknows+.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ココロオドル -original version- - Kokoro Odoru original version",
+      "artist": "nobodyknows",
+      "has_synced": true,
+      "path": "select/08_ココロオドル_-original_version-_-_Kokoro_Odoru_original_version_nobodyknows.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ココロオドル -instrumental version-",
+      "artist": "nobodyknows+",
+      "has_synced": true,
+      "path": "select/09_ココロオドル_-instrumental_version-_nobodyknows+.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "nobodyknows+ - ココロオドル",
+      "artist": "[Unknown Artist]",
+      "has_synced": true,
+      "path": "select/10_nobodyknows+_-_ココロオドル_[Unknown_Artist].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ココロオドル -original version-",
+      "artist": "nobodyknows+",
+      "has_synced": false,
+      "path": "select/pl_01_ココロオドル_-original_version-_nobodyknows+.txt"
+    }
+  ]
+}
